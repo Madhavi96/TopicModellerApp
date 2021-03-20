@@ -43,7 +43,7 @@ isodate==0.6.0
 itsdangerous==1.1.0
 jedi==0.13.2
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.13.1
 jsonschema==2.6.0
